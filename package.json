@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Tola Ola",
 	"description": "My first time working with Node.Js",
-	"keywords": ["first" , "project" , "tola"],
+	"keywords": ["first" , "project" , "tola", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
