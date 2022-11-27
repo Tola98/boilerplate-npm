@@ -3,6 +3,7 @@
 	"author" : "Tola Ola",
 	"description": "My first time working with Node.Js",
 	"keywords": ["first" , "project" , "tola", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
